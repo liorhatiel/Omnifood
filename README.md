@@ -1,4 +1,4 @@
-# Omnifood (Front-End Project)
+# Omnifood 
 
 ## Omnifood Repository
 
